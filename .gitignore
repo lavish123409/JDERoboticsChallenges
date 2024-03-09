@@ -1,0 +1,13 @@
+.vscode
+
+C++/**/CMakeLists.txt.user
+C++/**/CMakeCache.txt
+C++/**/CMakeFiles
+C++/**/CMakeScripts
+C++/**/Testing
+C++/**/Makefile
+C++/**/cmake_install.cmake
+C++/**/install_manifest.txt
+C++/**/compile_commands.json
+C++/**/CTestTestfile.cmake
+C++/**/_deps
