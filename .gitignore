@@ -11,3 +11,6 @@ C++/**/install_manifest.txt
 C++/**/compile_commands.json
 C++/**/CTestTestfile.cmake
 C++/**/_deps
+
+python/venv
+python/__pycache__
