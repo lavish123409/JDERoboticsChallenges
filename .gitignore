@@ -1,5 +1,6 @@
 .vscode
 
+# C++ challenge
 C++/**/CMakeLists.txt.user
 C++/**/CMakeCache.txt
 C++/**/CMakeFiles
@@ -12,5 +13,37 @@ C++/**/compile_commands.json
 C++/**/CTestTestfile.cmake
 C++/**/_deps
 
+# Python challenge
 python/venv
 python/__pycache__
+
+# ROS2 challenge
+ROS2/**/install/
+ROS2/**/log/
+ROS2/**/build/
+
+ROS2/**/# Ignore generated docs
+ROS2/**/*.dox
+ROS2/**/*.wikidoc
+
+ROS2/**/# eclipse stuff
+ROS2/**/.project
+ROS2/**/.cproject
+
+ROS2/**/# qcreator stuff
+ROS2/**/CMakeLists.txt.user
+
+ROS2/**/srv/_*.py
+ROS2/**/*.pcd
+ROS2/**/*.pyc
+ROS2/**/qtcreator-*
+ROS2/**/*.user
+
+ROS2/**/*~
+
+ROS2/**/# Emacs
+ROS2/**/.#*
+
+ROS2/**/# Colcon custom files
+ROS2/**/COLCON_IGNORE
+ROS2/**/AMENT_IGNORE
