@@ -22,15 +22,15 @@ ROS2/**/install/
 ROS2/**/log/
 ROS2/**/build/
 
-ROS2/**/# Ignore generated docs
+# Ignore generated docs
 ROS2/**/*.dox
 ROS2/**/*.wikidoc
 
-ROS2/**/# eclipse stuff
+# eclipse stuff
 ROS2/**/.project
 ROS2/**/.cproject
 
-ROS2/**/# qcreator stuff
+# qcreator stuff
 ROS2/**/CMakeLists.txt.user
 
 ROS2/**/srv/_*.py
@@ -41,9 +41,9 @@ ROS2/**/*.user
 
 ROS2/**/*~
 
-ROS2/**/# Emacs
+# Emacs
 ROS2/**/.#*
 
-ROS2/**/# Colcon custom files
+# Colcon custom files
 ROS2/**/COLCON_IGNORE
 ROS2/**/AMENT_IGNORE
